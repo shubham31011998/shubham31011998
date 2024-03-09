@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">“Great web design without functionality is like a sports car with no engine.”</h1>
+<h3 align="center"><b>“Great web design without functionality is like a sports car with no engine.”</b></h3>
 
 ###
 
