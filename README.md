@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">“Great web design without functionality is like a sports car with no engine.”</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Shubham Yaduvanshi from India, Rajasthan Jaipur(302012)<br><br>- 🔭 I’m working as Frontier(Frontend Developer) <br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I travel and make projects.</p>
+<p align="left">I'm <b>Shubham Yaduvanshi</b> from India, Rajasthan Jaipur(302012)<br><br>- 🔭 I’m working as Frontier(Frontend Developer) <br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I travel and make projects.</p>
 
 ###
 
@@ -62,8 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
